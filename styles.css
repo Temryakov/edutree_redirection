@@ -1,0 +1,16 @@
+* {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.main-block__button {
+    --notchSize: 12px;
+  
+      color: black;
+      border-radius: 0px;
+      border-color: transparent;
+      font-size: 17px;
+      height: 55px;
+      width: 180px;
+      font-weight: normal;
+      background-color: aquamarine;
+}
